@@ -1,0 +1,63 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Lead: Charles Haggas
+    Contact: charles [@] spacechimpmedia[dot]com
+    From: Austin, Texas
+
+	Web designer / UI / illustrator: 
+    Contact: 
+    From: 
+	
+	HTML, CSS, Javascript coder / SEO Semantics: Mark Newman
+    Contact: markedwardnewman [@] gmail[dot]com
+    From: Austin, Texas
+  
+	
+# THANKS
+  
+  mom!
+
+# TECHNOLOGY COLOPHON
+	Year created:
+    May 2015
+  
+	Language: 
+    English
+	Doctype:
+    W3C Valid HTML5 / CSS3
+	Compatibility:
+    Mobile-first / Responsive
+	Optimization:
+    Optimized for Load Speed 
+	SEO:
+    Semantic Coding as per https://www.google.com/webmasters/markup-helper/ 
+	Fonts:
+    lato-regular.ttf
+    
+	Colors:
+    Heading: #
+    Body copy: # / #
+    Link: #
+    
+  Frameworks / libraries:
+    Bootstrap
+			CSS CDN- https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
+			JS CDN- https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+		JQuery-
+			JS CDN- https://ajax.googleapis.com/ajax/libs/jquery-1.10.2.min.js
+    
+  CMS platform:
+    Wordpress v x.x:
+    PHP v x.x:
+    MySQL v x.x:
+	
+  IDEs:
+    Notepad++
+    
+  Tools:  
+    FireFox's Firebug
+    FileZilla
+    Adobe Photoshop
+    less compiler
