@@ -1,4 +1,7 @@
-#*[goldengreekfresh.com](http://markedwardnewman.com/assets/other/projects/sites/goldengreekfresh.com/)*
+#goldengreekfresh.com
+
+###Production site is still under development
+###My rendered contributions [here](http://markedwardnewman.com/goldengreekfresh.com/)
 
 ##Project Scope - late 2015
 
