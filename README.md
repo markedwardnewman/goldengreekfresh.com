@@ -1,11 +1,10 @@
-#goldengreekfresh.com
+# goldengreekfresh.com
 
-###Production site is still under development
-###My rendered contributions [here](http://markedwardnewman.com/goldengreekfresh.com/)
+### My rendered contributions [here](http://marknewman.me/goldengreekfresh.com/)
 
-##Project Scope - late 2015
+## Project Info - late 2015
 
-- Create a responsive site using Photoshop wireframes for reference.
+- Create a responsive prototype with Bootstrap3 using Photoshop wireframes for reference.
 
 ##Project Notes
 
