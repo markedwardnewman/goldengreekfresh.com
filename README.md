@@ -6,7 +6,7 @@
 Hired by Space Chimp Media in May, 2015 to
 - develop from scratch a responsive UX prototype using HTML, customized CSS / Bootstrap 3, and javascript based off Photoshop wireframes provided by Golden Greek Fresh
 
-### Technologies used:**
+### Technologies used
 - HTML5
 - LESS | CSS3
 - Bootstrap 3
